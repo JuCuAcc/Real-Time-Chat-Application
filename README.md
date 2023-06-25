@@ -148,9 +148,7 @@ An explanation of each line of the HTML code:
     - This line creates an `<input>` element with the ID "message". It is a text input field where users can type their chat messages. It has a placeholder text "Type a Message" to provide an example or instruction to the user.
 
 19. `<input type="file" name="uploadFile" id="uploadFile" />`
-    - This line creates an `<input>`
-
- element with the type "file". It allows users to select and upload files from their device. It has the ID "uploadFile".
+    - This line creates an `<input>` element with the type "file". It allows users to select and upload files from their device. It has the ID "uploadFile".
 
 20. `<button id="send">Send</button>`
     - This line creates a `<button>` element with the ID "send". It represents a button that users can click to send their chat message.
@@ -520,13 +518,13 @@ console.log('Server Running On : ' + port);
 
 ---
 
-License:
+## License:
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes.
 
-Acknowledgments:
+## Acknowledgments:
 This project was inspired by the need for a real-time chat solution and was developed as a demonstration of socket-based communication. Special thanks to the open-source community for providing invaluable resources and libraries.
 
-Contact:
+## Contact:
 For any inquiries or feedback, please contact the project maintainer email address.
 
 Enjoy seamless and real-time conversations with the Real-Time Chat Application. Start chatting today!
