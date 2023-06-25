@@ -34,7 +34,7 @@ Contributions to the project are welcome. If you encounter any issues or have su
 
 ![server-start](screenshots/server-started.png)
 
-## Strting Page
+## Starting Page
 
 ![start-1](screenshots/start-1.png)
 
